@@ -1,6 +1,6 @@
 # PISA_project
 ## Inspiration and purpose
-* This python console project was inspired by Mexico's results at PISA (Programme for International Student Assessment) exam. This exam is applied to students that finalize secondary school (9th grade) at Mexico. This exam has the purpose of measuring knowledge at math, science and lecture comprehension. Particularly, Mexico is among the lowest 20% countries who apply the exam.
+* This python console project was inspired by Mexico's results at PISA (Programme for International Student Assessment) exam. This exam is applied to students that finalize secondary school (9th grade) at Mexico. This exam has the purpose of measuring knowledge at math, science and lecture comprehension. Particularly, Mexico is among the lowest 20% countries at overall performance who apply the exam.
 The purpose of the PISA project is to offer these students new and better tools to practice math and science.
 
 ## Pisa_project Features 
