@@ -11,6 +11,10 @@ The purpose of the PISA project is to offer these students new and better tools 
   * Section 4: In this section the student is given a decimal number written with scientific notation or not and he has to convert it the other way.
 * It counts the exercises you have answered correctly
 * More sections could be added in the future
-
+  
+## How to run
+* Make sure you have python3 installed
+* Run python3 "Proyecto Pisa.py"
+  
 
     
