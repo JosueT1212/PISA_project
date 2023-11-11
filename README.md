@@ -10,6 +10,7 @@ The purpose of the PISA project is to offer these students new and better tools 
   * Section 3: In this section the student is given an improper fraction or a mixed fraction and he has to convert it to the other type of fraction.
   * Section 4: In this section the student is given a decimal number written with scientific notation or not and he has to convert it the other way.
 * It counts the exercises you have answered correctly
+* In case of answering incorrectly, it asks if you want to answer the exercise again
 * More sections could be added in the future
   
 ## How to run
